@@ -1,0 +1,41 @@
+{
+  "name": "discord-antiraid",
+  "version": "1.2.1",
+  "description": "Npm package to protect Discord servers from Raid attacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derpinou/discord-antiraid.git"
+  },
+  "keywords": [
+    "discord",
+    "antiraid",
+    "anti-raid",
+    "raid",
+    "protect",
+    "raidprotect",
+    "raid-protect",
+    "bot",
+    "package",
+    "npm",
+    "derp",
+    "link",
+    "anti-link",
+    "antilink",
+    "blacklist"
+  ],
+  "author": "https://github.com/Derpinou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Derpinou/discord-antiraid/issues"
+  },
+  "homepage": "https://github.com/Derpinou/discord-antiraid#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1"
+  }
+}
