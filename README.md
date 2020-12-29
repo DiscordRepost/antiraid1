@@ -1,7 +1,8 @@
 [![downloadsBadge](https://img.shields.io/npm/dt/discord-antiraid?style=for-the-badge)](https://npmjs.com/discord-antiraid)
 [![versionBadge](https://img.shields.io/npm/v/discord-antiraid?style=for-the-badge)](https://npmjs.com/discord-antiraid)
 [![discord](https://discord.com/api/guilds/559414466664464384/widget.png)](https://discord.gg/yAYZumWDA4)
-# discord-antiraid
+# discord-antiraid ( Créateur derp github.com/Derpinou )
+
 Npm package to protect Discord servers from Raid attacks
 
 Installation:
